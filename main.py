@@ -2,7 +2,7 @@ import os
 from dash import Dash
 from dash_bootstrap_components.themes import BOOTSTRAP
 from src.components.layout import create_layout
-from src.data.process import load_data
+from src.data.loader import load_data
 from src.data.api import get_data_from_api
 from src.data.source import DataSource
 import i18n
