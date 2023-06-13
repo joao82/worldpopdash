@@ -1,0 +1,10 @@
+pt:
+  app_title: População Mundial
+  years: Anos
+  country: Paises
+  population: População Total
+  no_data: Sem dados selecionados
+  select: Seleciona...
+  select_all: todos Selecionados
+  gdp: GDP em USD
+  electric: Consumo de Energia Eléctrica (kWH por capita)

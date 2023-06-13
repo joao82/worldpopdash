@@ -1,0 +1,10 @@
+en:
+  app_title: World Population Dashboard
+  years: Years
+  country: Country
+  population: Total Population
+  no_data: No data selected
+  select: Select...
+  select_all: Select all
+  gdp: GDP in USD
+  electric: Electric Power Consumption(kWH per capita)
