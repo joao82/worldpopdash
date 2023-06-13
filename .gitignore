@@ -4,3 +4,5 @@ before/runs/**
 **/.DS_Store
 .vscode/**
 .env
+.venv
+poetry.lock
